@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+input{
+    width: 300px;
+    border: 5px solid darkblue;
+}
+
+.formulario{
+    padding: 30px;
+}
+
+#tablilla{
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.titulo{
+    margin-top: 20px;
+    color: darkblue;
+}
